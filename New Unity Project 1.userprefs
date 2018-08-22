@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SampleScenes\Scripts\ParticleSceneControls.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BobMove.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Bridge.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spikes_kill.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoveUp_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\blade.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig_2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\move_platform.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\meteor_script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig_3.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig_4.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DragAndDrop.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\killer_door.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig_5.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Trig_final.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
