@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 245c8d76aeb85554895321d8841915e7
+timeCreated: 1524790339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mmm-mmx4meteor2_0
+    21300002: mmm-mmx4meteor2_1
+    21300004: mmm-mmx4meteor2_2
+    21300006: mmm-mmx4meteor2_3
+    21300008: mmm-mmx4meteor2_4
+    21300010: mmm-mmx4meteor2_5
+    21300012: mmm-mmx4meteor2_6
+    21300014: mmm-mmx4meteor2_7
+    21300016: mmm-mmx4meteor2_8
+    21300018: mmm-mmx4meteor2_9
+    21300020: mmm-mmx4meteor2_10
+    21300022: mmm-mmx4meteor2_11
+    21300024: mmm-mmx4meteor2_12
+    21300026: mmm-mmx4meteor2_13
+    21300028: mmm-mmx4meteor2_14
+    21300030: mmm-mmx4meteor2_15
+    21300032: mmm-mmx4meteor2_16
+    21300034: mmm-mmx4meteor2_17
+    21300036: mmm-mmx4meteor2_18
+    21300038: mmm-mmx4meteor2_19
+    21300040: mmm-mmx4meteor2_20
+    21300042: mmm-mmx4meteor2_21
+    21300044: mmm-mmx4meteor2_22
+    21300046: mmm-mmx4meteor2_23
+    21300048: mmm-mmx4meteor2_24
+    21300050: mmm-mmx4meteor2_25
+    21300052: mmm-mmx4meteor2_26
+    21300054: mmm-mmx4meteor2_27
+    21300056: mmm-mmx4meteor2_28
+    21300058: mmm-mmx4meteor2_29
+    21300060: mmm-mmx4meteor2_30
+    21300062: mmm-mmx4meteor2_31
+    21300064: mmm-mmx4meteor2_32
+    21300066: mmm-mmx4meteor2_33
+    21300068: mmm-mmx4meteor2_34
+    21300070: mmm-mmx4meteor2_35
+    21300072: mmm-mmx4meteor2_36
+    21300074: mmm-mmx4meteor2_37
+    21300076: mmm-mmx4meteor2_38
+    21300078: mmm-mmx4meteor2_39
+    21300080: mmm-mmx4meteor2_40
+    21300082: mmm-mmx4meteor2_41
+    21300084: mmm-mmx4meteor2_42
+    21300086: mmm-mmx4meteor2_43
+    21300088: mmm-mmx4meteor2_44
+    21300090: mmm-mmx4meteor2_45
+    21300092: mmm-mmx4meteor2_46
+    21300094: mmm-mmx4meteor2_47
+    21300096: mmm-mmx4meteor2_48
+    21300098: mmm-mmx4meteor2_49
+    21300100: mmm-mmx4meteor2_50
+    21300102: mmm-mmx4meteor2_51
+    21300104: mmm-mmx4meteor2_52
+    21300106: mmm-mmx4meteor2_53
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_0
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 329
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 317
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 318
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 319
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_5
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 318
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 322
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_7
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 317
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 316
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 308
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 306
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 306
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 238
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 241
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 243
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 281
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_16
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 238
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 290
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 239
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_19
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 277
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_20
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 274
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 263
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 135
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_23
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 214
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 212
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_25
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 214
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 210
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 209
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_29
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 212
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 211
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 133
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 201
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 201
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_34
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 134
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 136
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_36
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 133
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_37
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 158
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 20
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_39
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 97
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_42
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_43
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 100
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_44
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 82
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_45
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 88
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 89
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_47
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 82
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 79
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_49
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 14
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 14
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_51
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 52
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_52
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 39
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: mmm-mmx4meteor2_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 45
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

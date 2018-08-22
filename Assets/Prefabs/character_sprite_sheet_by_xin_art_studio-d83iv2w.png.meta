@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 20749cc8fef47ef4bbf1aeb72838f6a2
+timeCreated: 1524766118
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character_sprite_sheet_by_xin_art_studio-d83iv2w_0
+    21300002: character_sprite_sheet_by_xin_art_studio-d83iv2w_1
+    21300004: character_sprite_sheet_by_xin_art_studio-d83iv2w_2
+    21300006: character_sprite_sheet_by_xin_art_studio-d83iv2w_3
+    21300008: character_sprite_sheet_by_xin_art_studio-d83iv2w_4
+    21300010: character_sprite_sheet_by_xin_art_studio-d83iv2w_5
+    21300012: character_sprite_sheet_by_xin_art_studio-d83iv2w_6
+    21300014: character_sprite_sheet_by_xin_art_studio-d83iv2w_7
+    21300016: character_sprite_sheet_by_xin_art_studio-d83iv2w_8
+    21300018: character_sprite_sheet_by_xin_art_studio-d83iv2w_9
+    21300020: character_sprite_sheet_by_xin_art_studio-d83iv2w_10
+    21300022: character_sprite_sheet_by_xin_art_studio-d83iv2w_11
+    21300024: character_sprite_sheet_by_xin_art_studio-d83iv2w_12
+    21300026: character_sprite_sheet_by_xin_art_studio-d83iv2w_13
+    21300028: character_sprite_sheet_by_xin_art_studio-d83iv2w_14
+    21300030: character_sprite_sheet_by_xin_art_studio-d83iv2w_15
+    21300032: character_sprite_sheet_by_xin_art_studio-d83iv2w_16
+    21300034: character_sprite_sheet_by_xin_art_studio-d83iv2w_17
+    21300036: character_sprite_sheet_by_xin_art_studio-d83iv2w_18
+    21300038: character_sprite_sheet_by_xin_art_studio-d83iv2w_19
+    21300040: character_sprite_sheet_by_xin_art_studio-d83iv2w_20
+    21300042: character_sprite_sheet_by_xin_art_studio-d83iv2w_21
+    21300044: character_sprite_sheet_by_xin_art_studio-d83iv2w_22
+    21300046: character_sprite_sheet_by_xin_art_studio-d83iv2w_23
+    21300048: character_sprite_sheet_by_xin_art_studio-d83iv2w_24
+    21300050: character_sprite_sheet_by_xin_art_studio-d83iv2w_25
+    21300052: character_sprite_sheet_by_xin_art_studio-d83iv2w_26
+    21300054: character_sprite_sheet_by_xin_art_studio-d83iv2w_27
+    21300056: character_sprite_sheet_by_xin_art_studio-d83iv2w_28
+    21300058: character_sprite_sheet_by_xin_art_studio-d83iv2w_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 290
+        width: 330
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_1
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 290
+        width: 174
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 290
+        width: 92
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 201
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 201
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 201
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 201
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 202
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 200
+        width: 33
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 201
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_10
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 200
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 113
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 117
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 150
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 119
+        width: 48
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_15
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 120
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 118
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 113
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 114
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_19
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 122
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 118
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 26
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 59
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_23
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 26
+        width: 76
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 63
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 26
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 26
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_27
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 26
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 26
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_sprite_sheet_by_xin_art_studio-d83iv2w_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 26
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
